@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyam29&show_icons=true&locale=en&layout=compact" alt="hyam29" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hyam29&show_icons=true&locale=en" alt="hyam29" /></p>
+
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hyam29&" alt="hyam29" /></p>

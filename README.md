@@ -1,10 +1,10 @@
 ### About me,
-<h1 align="left">Hi 👋, I'm Hyeyam, a developer who codes dreams.</h1>
+<h1 align="left">Hi 👋, I'm hyam, a developer who codes dreams.</h1>
 <h3 align="left">I am working as a web developer in Korea and studying industrial artificial intelligence as my major.</h3>
 
 - 🔭 I’m currently working on **developing a smart factory solution**
 
-- 🌱 I’m currently learning **Java, big data analysis, Python, etc**
+- 🌱 I’m currently learning **Java, JS, Python, Deep learning, Machine learning, etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hyam29/javawspring?tab=readme-ov-file](https://github.com/hyam29/javawspring?tab=readme-ov-file)
 

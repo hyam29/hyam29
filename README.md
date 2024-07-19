@@ -1,6 +1,6 @@
 ### About me,
 <h1 align="left">Hi 👋, I'm hyam, a developer who codes dreams.</h1>
-<h3 align="left">I am working as a web developer in Korea and studying industrial artificial intelligence as my major.</h3>
+<h3 align="left">I am working as a Web, Application developer in Republic of Korea and studying industrial artificial intelligence as my major.</h3>
 
 - 🔭 I’m currently working on **developing a smart factory solution**
 

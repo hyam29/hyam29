@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java, JS, Python, Deep learning, Machine learning, etc**
 
-- 👨‍💻 One of my (Spring Framework)projects are available at [https://github.com/hyam29/javawspring?tab=readme-ov-file](https://github.com/hyam29/javawspring?tab=readme-ov-file)
+- 👨‍💻 One of my (Spring Framework) project is available at [https://github.com/hyam29/javawspring?tab=readme-ov-file](https://github.com/hyam29/javawspring?tab=readme-ov-file)
 
 - 📫 How to reach me **hyoung9228@gmail.com**
 
